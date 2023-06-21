@@ -9,3 +9,11 @@ body{
     border:dotted;
     margin:15px;
 }
+#box2{
+    background-color:orange;
+    width:400px;
+    height:100px;
+    padding:70px;
+    border:dashed;
+    margin:20px;
+}
